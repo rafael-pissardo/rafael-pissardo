@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rafael-augusto-pissardo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rpissardo@hotmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:rpissardo@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://rubygems.org/gems/solid_queue_guard"><img src="https://img.shields.io/badge/RubyGems-solid__queue__guard-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="RubyGems"/></a>
 </p>
 
@@ -108,7 +108,7 @@ Real-time integrity scoring for mobile users: country whitelist, device trust, a
 | | |
 |---|---|
 | **LinkedIn** | [linkedin.com/in/rafael-augusto-pissardo](https://linkedin.com/in/rafael-augusto-pissardo) |
-| **Email** | [rpissardo@hotmail.com](mailto:rpissardo@hotmail.com) |
+| **Email** | [rpissardo@gmail.com](mailto:rpissardo@gmail.com) |
 | **GitHub** | [@rafael-pissardo](https://github.com/rafael-pissardo) |
 | **RubyGems** | [solid_queue_guard](https://rubygems.org/gems/solid_queue_guard) |
 | **Availability** | Remote · Europe · International B2B & contract |
